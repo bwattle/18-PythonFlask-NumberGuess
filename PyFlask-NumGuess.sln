@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyFlask-NumGuess", "PyFlask-NumGuess\PyFlask-NumGuess.pyproj", "{22CC50AB-316F-4404-BE12-8C3EF649E666}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DE26AE00-78B3-4B86-B444-483EABE89C18}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CC50AB-316F-4404-BE12-8C3EF649E666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CC50AB-316F-4404-BE12-8C3EF649E666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CC50AB-316F-4404-BE12-8C3EF649E666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CC50AB-316F-4404-BE12-8C3EF649E666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAEBFE83-0681-4EB5-9B08-56C4518DFDD3}
+	EndGlobalSection
+EndGlobal
